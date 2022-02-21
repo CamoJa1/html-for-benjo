@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<h2>Why are boobs grand inventions</h2>
+
+<form action="/action_page.php">
+  <label for="fname">Tell me why these stress balls should be worshipped daily</label><br>
+  <input type="text" id="benji" name="question" value="boobs y/n?"><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
